@@ -1,20 +1,18 @@
-### 0xRudeus
-Fullstack Web3 developer building frontend and backend for web applications.
-
-
+## 0xRudeus
+Multifaceted Developer adept at building responsive websites, Discord bots, APIs, and smart contracts.
 
 ---
 
-### :hammer_and_wrench: Languages/Skillset:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-</div>
+## :hammer_and_wrench: Skills:
+
+### Languages:
+![Languages](https://skillicons.dev/icons?i=js,ts,solidity,py&perline=10)
+
+### Web:
+![Web](https://skillicons.dev/icons?i=css,html,tailwind,materialui,emotion,react,nextjs&perline=10)
+
+### Data management:
+![Data](https://skillicons.dev/icons?i=graphql,mongodb,postgres,mysql,sqlite,redis&perline=10)
+
+### Tools and Technologies:
+![Tools](https://skillicons.dev/icons?i=nodejs,powershell,express,babel,webpack,discord,twitter,git,figma,vscode,heroku,vercel,netlify,aws,docker,nginx,cloudflare,workers,ipfs&perline=10)

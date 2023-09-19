@@ -3,8 +3,6 @@ Multifaceted Developer adept at building responsive websites, Discord bots, APIs
 
 ---
 
-## :hammer_and_wrench: Skills:
-
 ### Languages:
 ![Languages](https://skillicons.dev/icons?i=js,ts,solidity,py&perline=10)
 

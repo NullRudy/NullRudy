@@ -1,4 +1,4 @@
-## 0xRudeus
+## NullRudy
 Multifaceted Developer adept at building responsive websites, Discord bots, APIs, and smart contracts.
 
 ---
